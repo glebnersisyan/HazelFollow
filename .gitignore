@@ -1,7 +1,3 @@
-# Directories
+#Directories
 .vs/
-bin/
-bin-int/
-
-#files
-*.user
+Hazel/vendor/spdlog
